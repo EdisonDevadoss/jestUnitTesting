@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "brew": "^0.0.8",
+    "watchman": "^1.0.0"
+  }
+}
