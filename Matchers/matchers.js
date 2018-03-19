@@ -1,4 +1,4 @@
-function matchers(a, b) {
+function matchers() {
   return a + b;
 }
 module.exports = matchers;
